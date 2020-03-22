@@ -19,3 +19,4 @@ https://infographics.channelnewsasia.com/covid-19/map.html
 # Links
 Singapores Dashboard of every case
 https://co.vid19.sg/
+https://www.worldometers.info/coronavirus/
