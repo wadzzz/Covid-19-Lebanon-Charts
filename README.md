@@ -20,3 +20,6 @@ https://infographics.channelnewsasia.com/covid-19/map.html
 Singapores Dashboard of every case
 https://co.vid19.sg/
 https://www.worldometers.info/coronavirus/
+
+Epidemic Calculator
+https://gabgoh.github.io/COVID/index.html
