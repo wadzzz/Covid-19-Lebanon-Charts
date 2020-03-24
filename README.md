@@ -21,5 +21,12 @@ Singapores Dashboard of every case
 https://co.vid19.sg/
 https://www.worldometers.info/coronavirus/
 
+Article on how the spread started
+https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html
+
+# Other Project
 Epidemic Calculator
 https://gabgoh.github.io/COVID/index.html
+
+Keep Your Hand off your face
+https://github.com/ObeidaElJundi/hands-off-your-face
