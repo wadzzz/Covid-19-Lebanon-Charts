@@ -24,9 +24,15 @@ https://www.worldometers.info/coronavirus/
 Article on how the spread started
 https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html
 
-# Other Project
+# Other Projects
 Epidemic Calculator
 https://gabgoh.github.io/COVID/index.html
 
 Keep Your Hand off your face
 https://github.com/ObeidaElJundi/hands-off-your-face
+
+WHO WhatsApp Chatbot
+https://api.whatsapp.com/send?phone=41225017655&text=hi&source=&data=
+
+CoronaVirus Vizualizer
+https://www.covidvisualizer.com
