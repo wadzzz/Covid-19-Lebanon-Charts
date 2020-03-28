@@ -24,6 +24,12 @@ https://www.worldometers.info/coronavirus/
 Article on how the spread started
 https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html
 
+Interactive Article on Outbreaks
+https://meltingasphalt.com/interactive/outbreak/
+
+Why viruses Spread exponentially
+https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+
 # Other Projects
 Epidemic Calculator
 https://gabgoh.github.io/COVID/index.html
