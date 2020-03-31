@@ -16,6 +16,9 @@ https://coronavirus.jhu.edu/map.html
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 https://infographics.channelnewsasia.com/covid-19/map.html
 
+Lebanon Cases Dashboard
+https://maps.moph.gov.lb/portal/apps/opsdashboard/index.html#/d19be998323548278e088076d46d24f8
+
 # Links and Other Articles
 Singapores Dashboard of every case
 https://co.vid19.sg/
