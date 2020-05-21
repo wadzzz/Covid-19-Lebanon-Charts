@@ -36,6 +36,9 @@ https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 Simulating a epidemic
 https://www.youtube.com/watch?v=gxAaO2rsdIs
 
+Different Models for CoVid19 predictions
+https://projects.fivethirtyeight.com/covid-forecasts/?ex_cid=rrpromo
+
 # Other Projects
 Epidemic Calculator
 https://gabgoh.github.io/COVID/index.html
