@@ -8,7 +8,7 @@ All edits are happening to the following google sheet:
 The view of the pages was inspired by
 <http://lebaneselira.org/>
 
-The Data is collected from WHO, Lebanese News Reports, and word to mouth
+The Data is collected from WHO, Lebanese News Reports, and word to mouth. Wadih is doing the awesome thing of waking up daily and updating the numbers manually. 
 
 # Useful Dashboards
 https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd
