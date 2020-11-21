@@ -18,6 +18,10 @@ https://infographics.channelnewsasia.com/covid-19/map.html
 
 Lebanon Cases Dashboard
 https://maps.moph.gov.lb/portal/apps/opsdashboard/index.html#/d19be998323548278e088076d46d24f8
+The above no longer works.
+
+WHO dashboard for Lebanon
+https://covid19.who.int/region/emro/country/lb
 
 # Links and Other Articles
 Singapores Dashboard of every case
